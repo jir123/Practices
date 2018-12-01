@@ -22,3 +22,17 @@
     Input the marks obtained in Mathematics :72
     Expected Output :
     The candidate is eligible for admission
+
+4.Write a program in C to display the pattern like right angle triangle using an asterisk.
+    The pattern like :
+    *
+    **
+    ***
+    ****
+5. Write a program in C to find the length of a string without using library function. 
+	Test Data : 
+	Input the string : w3resource.com
+
+	Expected Output :
+
+	Length of the string is : 15 
