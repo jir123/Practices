@@ -1,0 +1,24 @@
+1.Write a C program to find whether a given year is a leap year or not. Go to the editor
+    Test Data : 2016
+    Expected Output :
+    2016 is a leap year.
+
+2.Write a C program to accept a coordinate point in a XY coordinate system and determine in which quadrant the coordinate point lies.
+    Test Data : 7 9
+    Expected Output :
+    The coordinate point (7,9) lies in the First quadrant.
+
+3. Write a C program to find the eligibility of admission for a professional course based on the following criteria.
+    Marks in Maths >=65
+    Marks in Phy >=55
+    Marks in Chem>=50
+    Total in all three subject >=180
+    or
+    Total in Math and Subjects >=140
+
+    Test Data :
+    Input the marks obtained in Physics :65
+    Input the marks obtained in Chemistry :51
+    Input the marks obtained in Mathematics :72
+    Expected Output :
+    The candidate is eligible for admission
